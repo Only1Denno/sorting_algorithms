@@ -4,12 +4,18 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * prototype
+ * void swap_ints(int *j, int k)
+ */
+
 /* Comparison direction macros for bitonic sort */
+
 #define UP 0
 #define DOWN 1
 
 /**
- * enum bool - Enumeration of Boolean values.
+ * enum bool - Enumerating Boolean values.
  * @false: Equals 0.
  * @true: Equals 1.
  */
